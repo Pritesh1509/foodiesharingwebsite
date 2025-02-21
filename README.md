@@ -1,5 +1,14 @@
 # foodiesharingwebsite
 
->> I have Create Create New post using Frotend Form and entry will be show from backend side ( Entry will be stored in Receipe Custom post type)
->> Frotend Form is used anywhere if you want any of page/post it is managable by the shortcode
->> In Website Reels section is manages by the custom post type and ACF video Url and it will sent on whatsapp and Facebook 
+I have created a new post using a frontend form, and the entry is displayed from the backend. The entry is stored in the Recipe custom post type.
+I have developed a Recipes listing on the archive page and a dedicated detail page.
+The frontend form can be used anywhere on any page or post and is manageable via a shortcode.
+The Reels section on the website is managed using a custom post type and an ACF video URL and managable by shortcode so use can anywhere post/page, which can be shared on WhatsApp and Facebook.
+
+**I have Added the Database File (food_receipes.sql)**
+
+**Credentials**
+
+URL : http://localhost/foodies/
+Username : Foodie
+Password : Foodie@123
